@@ -1,10 +1,10 @@
 test_file_login:
 - to signifify that a new login has been added and replaced the old one
 
-Changes:
+login adjustment test:
 - ethan9792 -> ethancue499
 - ethanmichael@live.com -> ethanmichael.cuevas@gmail.com
 
-Changes 2:
+2nd attempted fix:
 - 2nd login adjustment attempt
 - set global user config instead
