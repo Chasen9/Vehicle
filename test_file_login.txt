@@ -4,3 +4,7 @@ test_file_login:
 Changes:
 - ethan9792 -> ethancue499
 - ethanmichael@live.com -> ethanmichael.cuevas@gmail.com
+
+Changes 2:
+- 2nd login adjustment attempt
+- set global user config instead
